@@ -1,7 +1,6 @@
 # smart-calculator
 Smart calculator with order of operations, brackets usage and variable system.  
-Created as a project on **
-hyperskill.org**
+Created as a project on **hyperskill.org**
 
 ## Calculator supports:
 - addition "+"
