@@ -2,8 +2,7 @@ import string
 from collections import deque
 
 
-# TODO: multi brackets support
-
+# TODO: multi bracket support
 def bracket_partition(input_str):
     input_list = input_str.split()
     # Numbers or single operators
